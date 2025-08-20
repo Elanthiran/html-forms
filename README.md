@@ -50,6 +50,9 @@ cd html-forms
 
 ## 📸 Screenshots
 html-forms:
+![html-forms](./html-forms.png)
+
+![html-forms](./html-formtable.png)
 
 ---
 
